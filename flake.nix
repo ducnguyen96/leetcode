@@ -26,6 +26,8 @@
           # cmake             # Build system
           # ninja             # Build tool
           # gdb               # Debugger
+
+          python3
         ];
 
         # Shell hook to generate .clangd file
